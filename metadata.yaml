@@ -1,0 +1,51 @@
+_repo: Syottopaikassa-b-Kaksiosainen-maalaisaiheinen-huvinaytelma_75621
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Karhumäki, Urho
+    alias: Karhumaki, Urho
+    birthdate: 1891
+    deathdate: 1947
+    gutenberg_agent_id: '58071'
+    url: http://www.gutenberg.org/2009/agents/58071
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Urho_Karhum%C3%A4ki
+    - https://fi.wikipedia.org/wiki/Urho_Karhum%C3%A4ki
+description: 'Reading ease score: 55.5 (10th to 12th grade). Somewhat difficult to
+  read.'
+gutenberg_bookshelf:
+- 'Browsing: Humour'
+- 'Browsing: Fiction'
+gutenberg_issued: '2025-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75621'
+language: fi
+pgterms:marc905: 20250308233409karhumki
+pgterms:marc906: '1927'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aHelsinki :$bPellervo-Seura, $c1927, pubdate 1932.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Comedy plays'
+- !lcsh 'Finnish drama -- 20th century'
+- !lcc 'PH'
+- GITenberg
+summary: '"Syöttöpaikassa : Kaksiosainen maalaisaiheinen huvinäytelmä" by Urho Karhumäki
+  is a two-part rural-themed comedy written in the early 20th century. The play primarily
+  revolves around the lives and interactions of a group of characters involved in
+  farming and daily rural life. It tells a story filled with humor and insight into
+  the struggles and camaraderie of the farming community.  The play features several
+  central characters, including Risto Louna, a young farmer, and his mother Anna Louna,
+  along with Moose Laitala and his family. The dialogue highlights the relationship
+  dynamics between these characters, filled with discussions about agricultural practices,
+  life challenges, and aspirations. Themes of ambition and contentment intertwine
+  as Risto expresses determination to improve their farming yield through modern practices,
+  while Anna often reflects on her more modest expectations. The interactions are
+  comedic yet poignant, ultimately exploring themes of family, ambition, and the quest
+  for a better life within a rural setting. (This is an automatically generated summary.)'
+title: 'Syöttöpaikassa : $b Kaksiosainen maalaisaiheinen huvinäytelmä'
+url: http://www.gutenberg.org/ebooks/75621
