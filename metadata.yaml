@@ -1,5 +1,8 @@
 _repo: Syottopaikassa-b-Kaksiosainen-maalaisaiheinen-huvinaytelma_75621
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Karhumäki, Urho
@@ -13,6 +16,8 @@ creator:
     - https://fi.wikipedia.org/wiki/Urho_Karhum%C3%A4ki
 description: 'Reading ease score: 55.5 (10th to 12th grade). Somewhat difficult to
   read.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75621#Syottopaikassa-b-Kaksiosainen-maalaisaiheinen-huvinaytelma
 gutenberg_bookshelf:
 - 'Browsing: Humour'
 - 'Browsing: Fiction'
